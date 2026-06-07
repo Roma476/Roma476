@@ -39,7 +39,3 @@
 </p>
 
 ###
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Roma476/Roma476/snake-output/snake.svg" alt="Snake animation" />
-</p>
