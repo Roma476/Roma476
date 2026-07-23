@@ -1,8 +1,8 @@
-<h1 align="center">Hi everyone!</h1>
+<h1 align="center">Hi there!</h1>
 
 ###
 
-<p align="center">I'm Robert, a 16 years old IT student and Cybersecurity enthusiast.<br>Actively competing in CTFs and training on pwn.college and training.olicyber to sharpen my skills.</p>
+<p align="center">I'm Robert, a 16 years old CS student and Cybersecurity enthusiast.<br>Actively competing in CTFs and training on pwn.college and training.olicyber.it to sharpen my skills.</p>
 
 ###
 
