@@ -35,6 +35,7 @@
 ###
 
 <p align="center">
+  <strong>My OliCyber Stats:</strong><br><br>
   <img src="https://raw.githubusercontent.com/Roma476/OliCyber.IT-Badge/main/card.svg" alt="OliCyber Stats" />
 </p>
 
