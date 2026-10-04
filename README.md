@@ -34,10 +34,10 @@
 
 ###
 
-<div align="center">
-  <h2>My OliCyber Stats:</h2>
-  <br>
+<p align="center">
+  <font size="10"><strong>My OliCyber Stats:</strong></font>
+  <br><br>
   <img src="https://raw.githubusercontent.com/Roma476/OliCyber.IT-Badge/main/card.svg" alt="OliCyber Stats" />
-</div>
+</p>
 
 ###
