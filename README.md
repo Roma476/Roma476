@@ -6,7 +6,7 @@
 
 <p align="center">
   I reported <a href="https://github.com/nRF24/RF24Ethernet/security/advisories/GHSA-54vw-q6cr-6c58">GHSA-54vw-q6cr-6c58</a>,
-  a high-severity IPv4 total-length validation bug in RF24Ethernet's uIP stack, fixed in 2.2.6 (CVE requested).
+  a high-severity IPv4 total-length validation bug in RF24Ethernet's uIP stack, fixed in 2.2.6 <br>(CVE requested).
 </p>
 
 ###
