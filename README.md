@@ -1,8 +1,13 @@
-<h1 align="center">Hi there!👋</h1>
+<h3 align="center">
+  <samp>&gt; Hi 👋, I'm <b>Robert</b></samp>
+</h3>
 
-###
+<p align="center">17yo CS student and Cybersecurity enthusiast.<br>Actively competing in CTFs and training on pwn.college and training.olicyber.it to sharpen my skills.</p>
 
-<p align="center">I'm Robert, a 16 years old CS student and Cybersecurity enthusiast.<br>Actively competing in CTFs and training on pwn.college and training.olicyber.it to sharpen my skills.</p>
+<p align="center">
+  I reported <a href="https://github.com/nRF24/RF24Ethernet/security/advisories/GHSA-54vw-q6cr-6c58">GHSA-54vw-q6cr-6c58</a>,
+  a high-severity IPv4 total-length validation bug in RF24Ethernet's uIP stack, fixed in 2.2.6 (CVE requested).
+</p>
 
 ###
 
